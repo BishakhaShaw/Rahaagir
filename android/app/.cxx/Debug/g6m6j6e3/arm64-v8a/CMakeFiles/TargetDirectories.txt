@@ -1,0 +1,2 @@
+C:/signinsignup/android/app/.cxx/Debug/g6m6j6e3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/signinsignup/android/app/.cxx/Debug/g6m6j6e3/arm64-v8a/CMakeFiles/rebuild_cache.dir

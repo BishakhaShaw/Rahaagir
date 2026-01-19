@@ -1,0 +1,30 @@
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = "../build"
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
+
+// pluginManagement {
+//     plugins {
+//         id 'com.android.application' version '8.2.1'
+//         id 'com.android.library' version '8.2.1'
+//     }
+//     repositories {
+//         google()
+//         mavenCentral()
+//         gradlePluginPortal()
+//     }
+// }
