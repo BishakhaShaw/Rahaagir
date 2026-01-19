@@ -93,3 +93,9 @@ Offline Functionality: Implementing cached data and offline map persistence for 
 
 
 Advanced Analytics: Integrating Firebase Analytics to better understand user interaction and attraction popularity.
+
+
+
+<img width="1716" height="510" alt="image" src="https://github.com/user-attachments/assets/5bd0be72-c14f-4297-a9d5-19d7317b6fc2" />
+<img width="1599" height="475" alt="image" src="https://github.com/user-attachments/assets/9d688aff-5cd2-4267-9f18-af34c6e07993" />
+
